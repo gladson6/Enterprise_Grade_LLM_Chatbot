@@ -1,0 +1,13 @@
+Git files
+.git
+.gitignore
+
+Python virtual environment
+venv
+*.pyc
+pycache/
+
+Local Firebase files
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
